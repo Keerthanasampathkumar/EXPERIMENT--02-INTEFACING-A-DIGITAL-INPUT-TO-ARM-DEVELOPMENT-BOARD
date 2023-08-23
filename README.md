@@ -119,10 +119,9 @@ static void MX_GPIO_Init(void)
 
 ## Output  :
 ### SWITCH OFF
-![P 1](https://github.com/Keerthanasampathkumar/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119477890/3f8aaca1-9b8f-4960-aa37-ff725f1ccf31)
-### SWITCH ON
 ![P2](https://github.com/Keerthanasampathkumar/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119477890/3bf38c53-15fe-41db-8be2-9d28a3f09b23)
+### SWITCH ON
+![P 1](https://github.com/Keerthanasampathkumar/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119477890/3f8aaca1-9b8f-4960-aa37-ff725f1ccf31)
 
- 
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
