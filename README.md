@@ -3,8 +3,10 @@ NAME : KEERTHANA S
 REGISTER NUMBER: 212222230066
 ```
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
-## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
-## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
+## Aim: 
+To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
+## Components required:
+STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 ## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
 
@@ -121,7 +123,8 @@ static void MX_GPIO_Init(void)
 ### SWITCH OFF
 ![P2](https://github.com/Keerthanasampathkumar/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119477890/3bf38c53-15fe-41db-8be2-9d28a3f09b23)
 ### SWITCH ON
-![P 1](https://github.com/Keerthanasampathkumar/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119477890/3f8aaca1-9b8f-4960-aa37-ff725f1ccf31)
+![P 2 C](https://github.com/Keerthanasampathkumar/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119477890/cff10a82-5665-4b51-b740-cd141933505b)
+
 
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
